@@ -9,11 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var myAnimateGif: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        myAnimateGif.loadGif(name: "Rengoku Kyoujurou Fight")
     }
-
 
 }
 

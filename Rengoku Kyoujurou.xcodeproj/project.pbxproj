@@ -13,6 +13,9 @@
 		1C21917E2557DB8700E41949 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C21917C2557DB8700E41949 /* Main.storyboard */; };
 		1C2191802557DB8A00E41949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C21917F2557DB8A00E41949 /* Assets.xcassets */; };
 		1C2191832557DB8A00E41949 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C2191812557DB8A00E41949 /* LaunchScreen.storyboard */; };
+		1C21918C2557DC0100E41949 /* Rengoku Kyoujurou.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1C21918B2557DC0100E41949 /* Rengoku Kyoujurou.gif */; };
+		1C21918F2557DC6400E41949 /* UIImage＋Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C21918E2557DC6400E41949 /* UIImage＋Gif.swift */; };
+		1C2191A22557F02800E41949 /* Rengoku Kyoujurou Fight.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1C2191A12557F02800E41949 /* Rengoku Kyoujurou Fight.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		1C21917F2557DB8A00E41949 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C2191822557DB8A00E41949 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C2191842557DB8A00E41949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C21918B2557DC0100E41949 /* Rengoku Kyoujurou.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Rengoku Kyoujurou.gif"; sourceTree = "<group>"; };
+		1C21918E2557DC6400E41949 /* UIImage＋Gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage＋Gif.swift"; sourceTree = "<group>"; };
+		1C2191A12557F02800E41949 /* Rengoku Kyoujurou Fight.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Rengoku Kyoujurou Fight.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +65,11 @@
 				1C2191762557DB8600E41949 /* AppDelegate.swift */,
 				1C2191782557DB8700E41949 /* SceneDelegate.swift */,
 				1C21917A2557DB8700E41949 /* ViewController.swift */,
+				1C21918E2557DC6400E41949 /* UIImage＋Gif.swift */,
 				1C21917C2557DB8700E41949 /* Main.storyboard */,
 				1C21917F2557DB8A00E41949 /* Assets.xcassets */,
+				1C21918B2557DC0100E41949 /* Rengoku Kyoujurou.gif */,
+				1C2191A12557F02800E41949 /* Rengoku Kyoujurou Fight.gif */,
 				1C2191812557DB8A00E41949 /* LaunchScreen.storyboard */,
 				1C2191842557DB8A00E41949 /* Info.plist */,
 			);
@@ -125,6 +134,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C2191832557DB8A00E41949 /* LaunchScreen.storyboard in Resources */,
+				1C2191A22557F02800E41949 /* Rengoku Kyoujurou Fight.gif in Resources */,
+				1C21918C2557DC0100E41949 /* Rengoku Kyoujurou.gif in Resources */,
 				1C2191802557DB8A00E41949 /* Assets.xcassets in Resources */,
 				1C21917E2557DB8700E41949 /* Main.storyboard in Resources */,
 			);
@@ -139,6 +150,7 @@
 			files = (
 				1C21917B2557DB8700E41949 /* ViewController.swift in Sources */,
 				1C2191772557DB8600E41949 /* AppDelegate.swift in Sources */,
+				1C21918F2557DC6400E41949 /* UIImage＋Gif.swift in Sources */,
 				1C2191792557DB8700E41949 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
